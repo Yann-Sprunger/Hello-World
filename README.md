@@ -1,3 +1,3 @@
 # Hello-World
 Say hello to the world obviously...
-My name is Jawed and I will always be faithfull to the institue of social and interactive studies (ISIS)
+My name is Jawad and I will always be faithfull to the institue of social and interactive studies (ISIS)
